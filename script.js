@@ -1,5 +1,5 @@
-  <script>
-    $("button").on("click", function() {
-      alert("Clicked!");
-    });
-  </script>
+<script>
+  $("button").on("click", function() {
+     alert("Clicked!");
+   });
+</script>
