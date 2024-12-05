@@ -1,47 +1,5 @@
 <!DOCTYPE html>
 <html>
-<style>
-    header {
-      text-align: center;
-      background: url('https://br43d3nr01.github.io/brob1717/background.jpg');
-      background-size: cover;
-      color: white;
-    }
-    a {
-      color: white;
-    }
-    h1 {
-      font-size: 70px;
-    }
-    img {
-      margin: 40px 0px 0px 0px;
-      size: 15px;
-    }
-    ul {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);
-    }
-    li {
-      display: inline;
-      padding: 0px 10px 0px 10px;
-    }
-    article {
-      max-width: 500px;
-      padding: 20px;
-      margin: 0 auto;
-    }
-    @media (max-width: 500px) {
-      h1 {
-        font-size: 36px;
-        padding: 5px;
-      }
-      li {
-        padding: 5px;
-        display: block;
-      }
-    }
-  </style>
-    <title>Brob1717 Blog</title>
     <link rel="icon" type="image" href='https://br43d3nr01.github.io/brob1717/ohno.png'>
 <head>
   <link href="/normalize.css" rel="stylesheet">
