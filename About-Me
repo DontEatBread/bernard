@@ -1,1 +1,74 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<style>
+header {
+      text-align: center;
+      background: url('https://br43d3nr01.github.io/brob1717/background.jpg');
+      background-size: cover;
+      color: white;
+    }
+ a {
+      color: white;
+    }
+  img {
+      margin: 40px 0px 0px 0px;
+      size: 15px;
+    }
+  ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+ li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+     }
+body {
+	text-align: center;
+    }
+ article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+   h1 {
+   font-size: 70px;
+   text-align: center;
+   }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+</style>
+<head>
+  <link href="/normalize.css" rel="stylesheet">
+</head>
+ <header>
+    <img src='https://br43d3nr01.github.io/brob1717/ohno.png'>
+    <h1>Brob1717's Blog</h1>
+    <ul>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Best Poems</a></li>
+      <li><a href="#">Worst Poems</a></li>
+    </ul>
+  </header>
+<body>
+<h1>About Me</h1>
+<article>
+<p>Hi! I'm Bernard Hackwell, an enthusiastic and driven individual with a passion for learning, problem-solving, and continuous growth. Whether it's exploring new technologies, tackling complex challenges, or fostering connections with others, I believe in the power of curiosity and collaboration.</p>
+
+<p>I’ve developed a diverse skill set over the years, ranging from critical thinking and creative innovation to leadership and strategic planning. I’m always eager to apply my experience to meaningful projects and am particularly drawn to (insert industry or field of expertise here, e.g., technology, entrepreneurship, design, etc.).</p>
+
+<p>When I’m not working, you’ll find me (insert hobbies or interests here, e.g., hiking, playing music, reading, etc.), which helps me stay grounded and inspired. I strive to maintain balance in my life, believing that the best results come when both your mind and body are in harmony.</p>
+
+<p>I’m always excited to meet like-minded individuals and explore opportunities for collaboration. Let’s connect and see how we can create something great together</p>
+</article>
+</body>
+
+</html>
